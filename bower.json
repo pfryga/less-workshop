@@ -1,0 +1,17 @@
+{
+  "name": "less-workshop",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pfryga/less-workshop",
+  "authors": [
+    "Piotr Fryga <piotr.fryga@allegro.pl>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/js/node_modules/bower_components",
+    "test",
+    "tests"
+  ]
+}
